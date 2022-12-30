@@ -1,5 +1,5 @@
 languageCode = 'en-us'
-title = "Researcher"
+title = "Prakash Kumar"
 baseURL = "https://pkash16.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
