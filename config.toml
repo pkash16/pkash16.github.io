@@ -25,11 +25,11 @@ googleAnalytics = ""  # add your tracking id
   [[params.socialIcons]]
     icon = "fab fa-twitter"
     title = "Twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/pkash16"
   [[params.socialIcons]]
     icon = "ai ai-google-scholar"
     title = "Scholar"
-    url = "https://scholar.google.com/"
+    url = "https://scholar.google.com/citations?user=Krw4u7YAAAAJ&hl=en"
 
 [permalinks]
   "/" = "/:filename"

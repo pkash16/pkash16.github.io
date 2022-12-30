@@ -10,7 +10,7 @@ title = "Contact"
 
 > University of Southern California 
 >
-> 3740 McClintock Ave Ste 400C
+> 3740 McClintock Ave Ste 412
 >
 > Los Angeles, CA 90089-1043, USA
 
