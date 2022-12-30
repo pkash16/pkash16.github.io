@@ -1,6 +1,6 @@
 languageCode = 'en-us'
 title = "Researcher"
-baseURL = "https://example.com"
+baseURL = "https://pkash16.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
