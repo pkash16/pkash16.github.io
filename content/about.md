@@ -25,7 +25,6 @@ In chronological order:
 
 ## Outreach
 
-The IEEE Signal Processing society has partnered with USC Viterbi's K-12 outreach program, and I have had the pleasure of leading the Medical Imaging portion of the Creative 
-
+The IEEE Signal Processing society has partnered with USC Viterbi's K-12 outreach program, and I have had the pleasure of leading the Medical Imaging portion of the creative team, where I taught several groups of high schoolers about signal processing, MRI physics, and showed them a guided tour of DISC's MRI lab including a live human scan and some basic anatomy discussions. More details [here](https://minghsiehece.usc.edu/ieee-signal-processing-society-usc-stem-k-12-education-outreach-initiative/).
 
 I am a mentor for [Minds Matter Southern Califonia](https://mindsmattersocal.org), a program that offers mentoring, support, group instruction, and social-emotional learning to low-income high school students in the Southern California region. The brilliant students and volunteers at Minds Matter create an environment of respect that allows the students to thrive and learn more about the college application process and go on high-school summer programs across the United States.
