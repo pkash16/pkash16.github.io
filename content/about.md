@@ -10,7 +10,7 @@ I am a 3rd year PhD student at the University of Southern California working at 
 
 ## Research Interest
 
-My research interests are in fast, low-latency MRI reconstruction, both with and without data-driven (Machine Learning) methods. I am also very interested in reproducible research, open science, and strive to make all my work and data as public as possible.
+My research interests are in fast, low-latency MRI reconstruction, both with and without data-driven (Machine Learning) methods. I am very interested in reproducible research, open science, and strive to make all my work and data as public as possible.
 
 ## Publications
 
