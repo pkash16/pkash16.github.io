@@ -12,6 +12,8 @@ googleAnalytics = ""  # add your tracking id
   description = "A simple monospaced resume theme for Hugo."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
+  pronouns= "he/him/his"
+  subtitle = "PhD Candidate"
   [params.footer]
     text = "By Prakash Kumar"
     url = "https://github.com/ojroques/hugo-researcher"
