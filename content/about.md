@@ -16,12 +16,15 @@ Our lab's work is dedicated to dynamic imaging at "mid-field", or 0.55T with hig
 
  I am also very interested in reproducible research, open science, and strive to make all my work and data as public as possible. To read more about MRI open science, click [here](https://mritogether.esmrmb.org).
 
+
 ## Publications
-
 In chronological order:
-1. P. Kumar, Y. Lim, K.S. Nayak, Feasibility of Super Resolution Speech RT-MRI using Deep Learning, International Society for Magnetic Resonance in Medicine 2021 [https://archive.ismrm.org/2021/1782.html](https://archive.ismrm.org/2021/1782.html)
-2. P. Kumar, K.S. Nayak, Low latency real-time mri at 0.55T using self-calibrating Through-Time GRAPPA, International Society of Magnetic Resonance in Medicine 2022 [https://archive.ismrm.org/2022/2348.html](https://archive.ismrm.org/2022/2348.html)
+1. S Ponrartana, HN Nguyen, SX Cui, Y Tian, P Kumar, JC Wood, KS Nayak. "Low-Field 0.55T MRI evaluation of the fetus." Pediatric Radiology. pending acceptance.
 
+## Conference Abstracts (refereed)
+In chronological order:
+1. P Kumar, Y Lim, KS Nayak. "Feasibility of Super Resolution Speech RT-MRI using Deep Learning." International Society for Magnetic Resonance in Medicine 2021. [https://archive.ismrm.org/2021/1782.html](https://archive.ismrm.org/2021/1782.html)
+2. P Kumar, KS Nayak. "Low latency real-time mri at 0.55T using self-calibrating Through-Time GRAPPA." International Society of Magnetic Resonance in Medicine 2022. [https://archive.ismrm.org/2022/2348.html](https://archive.ismrm.org/2022/2348.html)
 
 ## Outreach
 
