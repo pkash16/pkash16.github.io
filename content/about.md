@@ -19,12 +19,16 @@ Our lab's work is dedicated to dynamic imaging at "mid-field", or 0.55T with hig
 
 ## Publications
 In chronological order:
-1. S Ponrartana, HN Nguyen, SX Cui, Y Tian, P Kumar, JC Wood, KS Nayak. "Low-Field 0.55T MRI evaluation of the fetus." Pediatric Radiology. pending acceptance.
+1. S Ponrartana, HN Nguyen, SX Cui, Y Tian, **P Kumar**, JC Wood, KS Nayak. "Low-Field 0.55T MRI evaluation of the fetus." Pediatric Radiology (2023). [https://doi.org/10.1007/s00247-023-05604-x](https://doi.org/10.1007/s00247-023-05604-x). PMID: 36882594.
 
 ## Conference Abstracts (refereed)
 In chronological order:
-1. P Kumar, Y Lim, KS Nayak. "Feasibility of Super Resolution Speech RT-MRI using Deep Learning." International Society for Magnetic Resonance in Medicine 2021. [https://archive.ismrm.org/2021/1782.html](https://archive.ismrm.org/2021/1782.html)
-2. P Kumar, KS Nayak. "Low latency real-time mri at 0.55T using self-calibrating Through-Time GRAPPA." International Society of Magnetic Resonance in Medicine 2022. [https://archive.ismrm.org/2022/2348.html](https://archive.ismrm.org/2022/2348.html)
+1. **P Kumar**, Y Lim, KS Nayak. "Feasibility of Super Resolution Speech RT-MRI using Deep Learning." International Society for Magnetic Resonance in Medicine 2021. [https://archive.ismrm.org/2021/1782.html](https://archive.ismrm.org/2021/1782.html)
+2. **P Kumar**, KS Nayak. "Low latency real-time mri at 0.55T using self-calibrating Through-Time GRAPPA." International Society of Magnetic Resonance in Medicine 2022. [https://archive.ismrm.org/2022/2348.html](https://archive.ismrm.org/2022/2348.html)
+3. **P Kumar**,  KS Nayak. "Real-time deep learning non-Cartesian image reconstruction using a causal variational network.". Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
+4. **P Kumar**, B Tasdelen, KS Nayak. "Open-source dynamic MRI workflow for reproducible research". Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
+5. J Wong, **P Kumar**, KS Nayak, Y Tian. “Artifact reduction for real-time spiral MRI using out-in sampling at 0.55T”. Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
+
 
 ## Outreach
 
