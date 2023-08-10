@@ -20,6 +20,7 @@ Our lab's work is dedicated to dynamic imaging at "mid-field", or 0.55T with hig
 ## Publications
 In chronological order:
 1. S Ponrartana, HN Nguyen, SX Cui, Y Tian, **P Kumar**, JC Wood, KS Nayak. "Low-Field 0.55T MRI evaluation of the fetus." Pediatric Radiology (2023). [https://doi.org/10.1007/s00247-023-05604-x](https://doi.org/10.1007/s00247-023-05604-x). PMID: 36882594.
+2. Y Lim, **P Kumar**, KS Nayak. "Speech Production RT-MRI at 0.55 Tesla." Magnetic Resonance in Medicine (2023). Accepted.
 
 ## Conference Abstracts (refereed)
 In chronological order:
@@ -28,6 +29,7 @@ In chronological order:
 3. **P Kumar**,  KS Nayak. "Real-time deep learning non-Cartesian image reconstruction using a causal variational network.". Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
 4. **P Kumar**, B Tasdelen, KS Nayak. "Open-source dynamic MRI workflow for reproducible research". Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
 5. J Wong, **P Kumar**, KS Nayak, Y Tian. “Artifact reduction for real-time spiral MRI using out-in sampling at 0.55T”. Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
+6. 	C Hagedorn, **P Kumar**, B Villegas, M OuYoung, S Cui, M Sheth, S Narayanan, KS Nayak, U Sinha. "Role Of High-Performance Low Field Magnetic Resonance Imaging In Management Of Tongue Cancer". Proc. AHNS 11th International Conference, Montreal, July 2023. [https://ahns.jnabstracts.com/Detail?ID=129269](https://ahns.jnabstracts.com/Detail?ID=129269)
 
 
 ## Outreach
