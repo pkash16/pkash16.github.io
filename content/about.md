@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-I am a 3rd year PhD student at the University of Southern California working at the Magnetic Engineering Research Laboratory [MREL](https://mrel.usc.edu) and the Dynamic Imaging Science Center [DISC](https://disc.usc.edu).  My hobbies include music production [YouTube](https://www.youtube.com/channel/UCyzl_Z2Or32KIv2Sodcgj4Q) and playing tennis.
+I am a 4th year PhD student at the University of Southern California working at the Magnetic Engineering Research Laboratory [MREL](https://mrel.usc.edu) and the Dynamic Imaging Science Center [DISC](https://disc.usc.edu).  My hobbies include music production [YouTube](https://www.youtube.com/channel/UCyzl_Z2Or32KIv2Sodcgj4Q) and biking.
 
 ## Research Interests
 
@@ -22,6 +22,10 @@ In chronological order:
 1. S Ponrartana, HN Nguyen, SX Cui, Y Tian, **P Kumar**, JC Wood, KS Nayak. "Low-Field 0.55T MRI evaluation of the fetus." Pediatric Radiology (2023). [https://doi.org/10.1007/s00247-023-05604-x](https://doi.org/10.1007/s00247-023-05604-x). PMID: 36882594.
 2. Y Lim, **P Kumar**, KS Nayak. "Speech Production RT-MRI at 0.55 Tesla." Magnetic Resonance in Medicine (2023). Accepted.
 
+## Conference Papers
+In chronological order:
+1. **P Kumar**, Y Tian, Y Lim, SX Cui, C Hagedorn, D Byrd, UK Sinha, S Narayanan, KS Nayak. "State-of-the-art speech production MRI protocol for new 0.55T scanners." Interspeech (2024). Accepted.
+
 ## Conference Abstracts (refereed)
 In chronological order:
 1. **P Kumar**, Y Lim, KS Nayak. "Feasibility of Super Resolution Speech RT-MRI using Deep Learning." International Society for Magnetic Resonance in Medicine 2021. [https://archive.ismrm.org/2021/1782.html](https://archive.ismrm.org/2021/1782.html)
@@ -30,7 +34,12 @@ In chronological order:
 4. **P Kumar**, B Tasdelen, KS Nayak. "Open-source dynamic MRI workflow for reproducible research". Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
 5. J Wong, **P Kumar**, KS Nayak, Y Tian. “Artifact reduction for real-time spiral MRI using out-in sampling at 0.55T”. Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
 6. 	C Hagedorn, **P Kumar**, B Villegas, M OuYoung, S Cui, M Sheth, S Narayanan, KS Nayak, U Sinha. "Role Of High-Performance Low Field Magnetic Resonance Imaging In Management Of Tongue Cancer". Proc. AHNS 11th International Conference, Montreal, July 2023. [https://ahns.jnabstracts.com/Detail?ID=129269](https://ahns.jnabstracts.com/Detail?ID=129269)
-
+7.	**P Kumar**, R Ramasawmy, A Javed, Y Tian, AE Campbell-Washburn, KS Nayak. “Practical sampling strategies for volumetric cardiac RT-MRI at 0.55T”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024. 
+8.	K Lee, **P Kumar**, K Iskarous, KS Nayak. “Curation of Traning Data for Supervised Deep Learning Reconstruction of Real-Time Speech MRI”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
+9.	S Kapai, **P Kumar**, E Yagiz, Y Tian, R Kato, M Chen, M Ferrada, AE Campbell-Washburn, KS Nayak. “Real-Time Imaging of Lower Airway Collapse at 0.55T”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
+10.	R Ramasawmy, A Javed, DA Herzka, **P Kumar**, KS Nayak, RJ Lederman, AE Campbell-Washburn. “Four-dimensional iterative motion correction (iMoCO) for isotropic stack-of-spirals cine imaging”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
+11.	C Bilgi, **P Kumar**, AN Moghaddam, N Pahlevan. “Quantitative Flow Visualization in a Patient-Specific Compliant Type B Aortic Dissection Phantom using 0.55T MRI”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
+12.	NY Can, **P Kumar**, NG Lee, Y Tian, KS Nayak. “Improved Large-FOV Dynamic MRI at 0.55T with Concomitant Field Correction”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
 
 ## Outreach
 
