@@ -33,13 +33,18 @@ In chronological order:
 3. **P Kumar**,  KS Nayak. "Real-time deep learning non-Cartesian image reconstruction using a causal variational network.". Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
 4. **P Kumar**, B Tasdelen, KS Nayak. "Open-source dynamic MRI workflow for reproducible research". Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
 5. J Wong, **P Kumar**, KS Nayak, Y Tian. “Artifact reduction for real-time spiral MRI using out-in sampling at 0.55T”. Proc. ISMRM 31st Scientific Session, Toronto, June 2023, accepted.
-6. 	C Hagedorn, **P Kumar**, B Villegas, M OuYoung, S Cui, M Sheth, S Narayanan, KS Nayak, U Sinha. "Role Of High-Performance Low Field Magnetic Resonance Imaging In Management Of Tongue Cancer". Proc. AHNS 11th International Conference, Montreal, July 2023. [https://ahns.jnabstracts.com/Detail?ID=129269](https://ahns.jnabstracts.com/Detail?ID=129269)
-7.	**P Kumar**, R Ramasawmy, A Javed, Y Tian, AE Campbell-Washburn, KS Nayak. “Practical sampling strategies for volumetric cardiac RT-MRI at 0.55T”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024. 
-8.	K Lee, **P Kumar**, K Iskarous, KS Nayak. “Curation of Traning Data for Supervised Deep Learning Reconstruction of Real-Time Speech MRI”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
-9.	S Kapai, **P Kumar**, E Yagiz, Y Tian, R Kato, M Chen, M Ferrada, AE Campbell-Washburn, KS Nayak. “Real-Time Imaging of Lower Airway Collapse at 0.55T”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
-10.	R Ramasawmy, A Javed, DA Herzka, **P Kumar**, KS Nayak, RJ Lederman, AE Campbell-Washburn. “Four-dimensional iterative motion correction (iMoCO) for isotropic stack-of-spirals cine imaging”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
-11.	C Bilgi, **P Kumar**, AN Moghaddam, N Pahlevan. “Quantitative Flow Visualization in a Patient-Specific Compliant Type B Aortic Dissection Phantom using 0.55T MRI”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
-12.	NY Can, **P Kumar**, NG Lee, Y Tian, KS Nayak. “Improved Large-FOV Dynamic MRI at 0.55T with Concomitant Field Correction”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
+6.  C Hagedorn, **P Kumar**, B Villegas, M OuYoung, S Cui, M Sheth, S Narayanan, KS Nayak, U Sinha. "Role Of High-Performance Low Field Magnetic Resonance Imaging In Management Of Tongue Cancer". Proc. AHNS 11th International Conference, Montreal, July 2023. [https://ahns.jnabstracts.com/Detail?ID=129269](https://ahns.jnabstracts.com/Detail?ID=129269)
+7.  **P Kumar**, R Ramasawmy, A Javed, Y Tian, AE Campbell-Washburn, KS Nayak. “Practical sampling strategies for volumetric cardiac RT-MRI at 0.55T”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024. 
+8.  K Lee, **P Kumar**, K Iskarous, KS Nayak. “Curation of Traning Data for Supervised Deep Learning Reconstruction of Real-Time Speech MRI”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
+9.  S Kapai, **P Kumar**, E Yagiz, Y Tian, R Kato, M Chen, M Ferrada, AE Campbell-Washburn, KS Nayak. “Real-Time Imaging of Lower Airway Collapse at 0.55T”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
+10. R Ramasawmy, A Javed, DA Herzka, **P Kumar**, KS Nayak, RJ Lederman, AE Campbell-Washburn. “Four-dimensional iterative motion correction (iMoCO) for isotropic stack-of-spirals cine imaging”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
+11. C Bilgi, **P Kumar**, AN Moghaddam, N Pahlevan. “Quantitative Flow Visualization in a Patient-Specific Compliant Type B Aortic Dissection Phantom using 0.55T MRI”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
+12. NY Can, **P Kumar**, NG Lee, Y Tian, KS Nayak. “Improved Large-FOV Dynamic MRI at 0.55T with Concomitant Field Correction”. Accepted. ISMRM 32nd Scientific Session, Singapore, 2024.
+13. S Kapai, **P Kumar**, E Yagiz, RM Kato, Y Tian, NG Lee, M Chen, M Ferrada, AE Campbell-Washburn, KS Nayak. “Evaluation of Tracheomalacia Using Novelk 0.55T MRI”. Am J Respir Crit Care Med 2024;209:A4491. 
+14. **P Kumar**, R Ramasawmy, A Javed, KS Nayak, AE Campbell-Washburn. “Volumetric real-time imaging for interventional CMR at 0.55T”. SCMR 2025; 239
+15. **P Kumar**, R Ramasawmy, A Javed, D Le, K O’Brien, A Jaimes, K Chow, KS Nayak, AE Campbell-Washburn. “Low-latency real-time 3D imaging for interventional cardiovascular MRI at 0.55T”. ISMRM 2025; accepted.
+16. D Le, **P Kumar**, E Yagiz, Y Tian, KS Nayak. “Online spatiotemporally constrained reconstruction for real-time dynamic MRI”. ISMRM 2025; accepted.
+
 
 ## Outreach
 
