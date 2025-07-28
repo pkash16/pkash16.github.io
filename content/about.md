@@ -17,14 +17,16 @@ Our lab's work is dedicated to dynamic imaging at "mid-field", or 0.55T with hig
  I am also very interested in reproducible research, open science, and strive to make all my work and data as public as possible. To read more about MRI open science, click [here](https://mritogether.esmrmb.org).
 
 
-## Publications
+## Journal Publications
 In chronological order:
 1. S Ponrartana, HN Nguyen, SX Cui, Y Tian, **P Kumar**, JC Wood, KS Nayak. "Low-Field 0.55T MRI evaluation of the fetus." Pediatric Radiology (2023). [https://doi.org/10.1007/s00247-023-05604-x](https://doi.org/10.1007/s00247-023-05604-x). PMID: 36882594.
-2. Y Lim, **P Kumar**, KS Nayak. "Speech Production RT-MRI at 0.55 Tesla." Magnetic Resonance in Medicine (2023). Accepted.
+2. Y Lim, **P Kumar**, KS Nayak. "Speech Production RT-MRI at 0.55 Tesla." Magnetic Resonance in Medicine (2023).
+3. S Malik, E Shimron, S Schauman, KS Nayak, **P Kumar**, ME Caligiuri, F Santini, N Stikov, L Bell, C Montalba, P Jezzard. "Code review facility in Magnetic Resonance in Medicine". Magnetic Resonance in Medicine. February 2025.
 
 ## Conference Papers
 In chronological order:
-1. **P Kumar**, Y Tian, Y Lim, SX Cui, C Hagedorn, D Byrd, UK Sinha, S Narayanan, KS Nayak. "State-of-the-art speech production MRI protocol for new 0.55T scanners." Interspeech (2024). Accepted.
+1. **P Kumar**, Y Tian, Y Lim, SX Cui, C Hagedorn, D Byrd, UK Sinha, S Narayanan, KS Nayak. "State-of-the-art speech production MRI protocol for new 0.55T scanners." Interspeech (2024).
+2. Y Zhang, **P Kumar**, Y Tian, Z Zhao, K Huang, K Lee, H Hsu, S Narayanan, KS Nayak, L Goldstein, "Co-registration of real-time MRI and respiration for speech research". Interspeech 2025.
 
 ## Conference Abstracts (refereed)
 In chronological order:
@@ -44,7 +46,6 @@ In chronological order:
 14. **P Kumar**, R Ramasawmy, A Javed, KS Nayak, AE Campbell-Washburn. “Volumetric real-time imaging for interventional CMR at 0.55T”. SCMR 2025; 239
 15. **P Kumar**, R Ramasawmy, A Javed, D Le, K O’Brien, A Jaimes, K Chow, KS Nayak, AE Campbell-Washburn. “Low-latency real-time 3D imaging for interventional cardiovascular MRI at 0.55T”. ISMRM 2025; accepted.
 16. D Le, **P Kumar**, E Yagiz, Y Tian, KS Nayak. “Online spatiotemporally constrained reconstruction for real-time dynamic MRI”. ISMRM 2025; accepted.
-
 
 ## Outreach
 
