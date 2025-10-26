@@ -22,7 +22,8 @@ In chronological order:
 1. S Ponrartana, HN Nguyen, SX Cui, Y Tian, **P Kumar**, JC Wood, KS Nayak. "Low-Field 0.55T MRI evaluation of the fetus." Pediatric Radiology (2023). [https://doi.org/10.1007/s00247-023-05604-x](https://doi.org/10.1007/s00247-023-05604-x). PMID: 36882594.
 2. Y Lim, **P Kumar**, KS Nayak. "Speech Production RT-MRI at 0.55 Tesla." Magnetic Resonance in Medicine (2023).
 3. S Malik, E Shimron, S Schauman, KS Nayak, **P Kumar**, ME Caligiuri, F Santini, N Stikov, L Bell, C Montalba, P Jezzard. "Code review facility in Magnetic Resonance in Medicine". Magnetic Resonance in Medicine. February 2025.
-4. **P Kumar**, KS Nayak. P Kumar, KS Nayak. "Feasibility of Tagged MRI at 0.55T." Magnetic Resonance in Medicine. 2025. accepted.
+4. **P Kumar**, KS Nayak. Feasibility of tagged MRI at 0.55 T. Magn Reson Med. 2025; 1-9. doi: 10.1002/mrm.70060
+5. D. H. Le, **P. Kumar**, E. Yagiz, Y. Tian, and K. S. Nayak, “ Online Spatiotemporally Constrained Reconstruction for Real-Time Interactive MRI,” Magnetic Resonance in Medicine (2025): 1–9, https://doi.org/10.1002/mrm.70131.
 
 ## Conference Papers
 In chronological order:
