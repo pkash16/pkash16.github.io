@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-I am a 4th year PhD student at the University of Southern California working at the Magnetic Engineering Research Laboratory [MREL](https://mrel.usc.edu) and the Dynamic Imaging Science Center [DISC](https://disc.usc.edu).  My hobbies include music production [YouTube](https://www.youtube.com/channel/UCyzl_Z2Or32KIv2Sodcgj4Q) and biking.
+I am a 6th year PhD student at the University of Southern California working at the Magnetic Engineering Research Laboratory [MREL](https://mrel.usc.edu) and the Dynamic Imaging Science Center [DISC](https://disc.usc.edu).  My hobbies include music production [YouTube](https://www.youtube.com/channel/UCyzl_Z2Or32KIv2Sodcgj4Q) and biking.
 
 ## Research Interests
 
