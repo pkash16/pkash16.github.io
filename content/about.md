@@ -6,15 +6,13 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-I am a 6th year PhD student at the University of Southern California working at the Magnetic Engineering Research Laboratory [MREL](https://mrel.usc.edu) and the Dynamic Imaging Science Center [DISC](https://disc.usc.edu).  My hobbies include music production [YouTube](https://www.youtube.com/channel/UCyzl_Z2Or32KIv2Sodcgj4Q) and biking.
+I am a Postdoctoral Research Fellow at the Beth Israel Deaconess Medical Center / Harvard Medical School working on cardiovascular Magnetic Resonance Imaging (MRI). I recently graduated with my PhD from the University of Southern California. My hobbies include music production [YouTube](https://www.youtube.com/channel/UCyzl_Z2Or32KIv2Sodcgj4Q) and biking
 
 ## Research Interests
 
-My research interests are in fast, low-latency real-time MRI reconstruction, both with and without data-driven (Machine Learning) methods. My work involves fast image reconstruction to support bio-feedback in the scanner in real-time. This includes [interventional imaging](https://www.nih.gov/news-events/news-releases/nih-researchers-develop-mri-lower-magnetic-field-cardiac-lung-imaging) and real-time speech therapy. 
+My work has involved fast image reconstruction to support bio-feedback in the scanner in real-time. This includes [interventional imaging](https://www.nih.gov/news-events/news-releases/nih-researchers-develop-mri-lower-magnetic-field-cardiac-lung-imaging) and real-time speech therapy. 
 
-Our lab's work is dedicated to dynamic imaging at "mid-field", or 0.55T with high performance gradient systems. 0.55T loses in signal-to-noise ratio (SNR) compared to industy standard 1.5T and 3T systems, but benefits from reduced off-resonance, shorter T1,  longer T2/T2*, reduced specific absorption rate (SAR), lower acoustic noise, and lower manufacture costs, allowing increased MRI accessibility.
-
- I am also very interested in reproducible research, open science, and strive to make all my work and data as public as possible. To read more about MRI open science, click [here](https://mritogether.esmrmb.org).
+I am also very interested in reproducible research, open science, and strive to make all my work and data as public as possible. To read more about MRI open science, click [here](https://mritogether.esmrmb.org).
 
 
 ## Journal Publications
